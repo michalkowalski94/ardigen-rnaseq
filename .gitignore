@@ -1,0 +1,15 @@
+# Pliki systemowe macOS
+.DS_Store
+
+# Pliki tymczasowe i konfiguracyjne R/RStudio
+.RData
+.Rhistory
+.Rprofile
+.Rproj.user/
+.git/
+expression_data.tsv
+metadata.tsv
+
+# Biblioteka renv
+# Ignoruje pobrane pakiety, ale zachowuje strukturę renv.
+renv/library/
